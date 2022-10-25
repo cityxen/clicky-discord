@@ -1,0 +1,15 @@
+{
+  "name": "discord-clicky",
+  "version": "1.0.0",
+  "description": "clicky-discord",
+  "main": "clicky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deadline",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "locutus": "^2.0.15"
+  }
+}
